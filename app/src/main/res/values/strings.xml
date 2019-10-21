@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLiteCRUD2019</string>
+    <string name="ListU">User List</string>
+    <string name="EditU">Update User</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemMale"
+        android:title="List Male Users"/>
+    <item
+        android:id="@+id/itemFemale"
+        android:title="List FeMale Users"/>
+    <item
+        android:id="@+id/itemAllUser"
+        android:title="List All Users"/>
+    <item
+        android:id="@+id/itemAbout"
+        android:title="About Me"/>
+    <item
+        android:id="@+id/itemLogout"
+        android:title="Logout"/>
+</menu>
